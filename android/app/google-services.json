@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360583487398",
+    "project_id": "science-neww",
+    "storage_bucket": "science-neww.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360583487398:android:0e14bf811b574c83dbb967",
+        "android_client_info": {
+          "package_name": "com.example.science_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgD4z_5SPZkk2AeN8kV_rx1h8aE_sWtv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
